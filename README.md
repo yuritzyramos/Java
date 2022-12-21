@@ -38,6 +38,3 @@ Sorting using indices
 Projects/Assignments - 
 * ComputeL - Program that counts the number of inversions that occur during mergesort 
 
-
-## Practice Outside of Class
-OOP projects based on certification course from Udemy
