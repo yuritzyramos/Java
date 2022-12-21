@@ -10,6 +10,7 @@ Here are a few of the programs I have coded for my courses in the past:
 * Creating shapes/visuals with turtle
 * Boolean statements
 * Recursion
+* Data types in Java (i.e., int, string, float, double, etc.)
 
 ## CS 171 - Introduction to Computer Science II
 **Topics:**
@@ -41,7 +42,6 @@ Projects/Assignments -
  Projects/Assignments - 
 * ArrayMax - Implements a MinPQ to find the maximum of an array
 
-* Sorting using indices
-
+Sorting using indices
 * ComputeL - Program that counts the number of inversions that occur during mergesort 
 
