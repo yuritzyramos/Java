@@ -3,6 +3,14 @@ Java is the main language taught in my Computer Science courses; therefore, they
 
 Here are a few of the programs I have coded for my courses in the past:
 
+## CS 170 - Introduction to Computer Science I
+**Topics:**
+* For loops
+* Reggex
+* Creating shapes/visuals with turtle
+* Boolean statements
+* Recursion
+
 ## CS 171 - Introduction to Computer Science II
 **Topics:**
 
